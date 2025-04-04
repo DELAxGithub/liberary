@@ -10,13 +10,14 @@
 ## 📚 マニュアル目次
 
 ### 🎬 基本設定・環境
-- [プロジェクト基本設定](01_project_setup.md)
-- [フォルダ構造](02_folder_structure.md)
-- [チームルール](03_team_rules.md)
+- [プロジェクト基本設定](/@DELAxGithub/liberary/01_project_setup)
+- [フォルダ構造](/@DELAxGithub/liberary/02_folder_structure)
+- [チームルール](/@DELAxGithub/liberary/03_team_rules)
 
 ### 🛠 制作フロー
-- [ワークフローTips](04_workflow_tips.md)
-- [運用フロー](05_operation_flow.md)
+- [ワークフローTips](/@DELAxGithub/liberary/04_workflow_tips)
+- [運用フロー](/@DELAxGithub/liberary/05_operation_flow)
+- [バックアップ戦略](/@DELAxGithub/liberary/06_backup_strategy)
 
 ## 👥 プロジェクト体制
 
